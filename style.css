@@ -21,6 +21,12 @@ h2 {
     background-color: grey;
 }
 
+h3 {
+    text-align: left;
+    margin-top: 10px;
+    margin-left: 20px;
+}
+
 section {
     width: 50%;
     margin: 30px auto;
@@ -41,5 +47,5 @@ article {
 
 p {
     text-align: justify;
-    margin: 20px;
+    margin: 5px 20px;
 }
